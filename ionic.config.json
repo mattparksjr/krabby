@@ -1,0 +1,7 @@
+{
+  "name": "krabby",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
